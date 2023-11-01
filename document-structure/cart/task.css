@@ -13,7 +13,7 @@ body {
 .cart__product-count {
   position: absolute;
   top: 0;
-  right; 0;
+  right: 0;
   border: 2px solid green;
   border-radius: 50%;
   padding: 2px 5px;
@@ -74,29 +74,16 @@ body {
   padding: 0 10px;
 }
 
-.product__button {
+.product__add {
+  background: green;
   padding: 10px 20px;
   color: #fff;
   border-radius: 5px;
   cursor: pointer;
 }
 
-.product__button_add {
-  background: green;
-}
-
-.product__button_delete {
-  background: red;
-  margin-top: 10px;
-  text-align: center;
-}
-
-.product__button_add:hover {
+.product__add:hover {
   opacity: 0.8;
-}
-
-.product__button_delete:hover {
-  opacity: 0.7;
 }
 
 .product-shadow {
