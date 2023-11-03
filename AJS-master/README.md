@@ -1,2 +1,0 @@
-# AJS
-Netology Ajs Homeworks
